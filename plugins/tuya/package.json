@@ -35,7 +35,7 @@
       "@scrypted/common": "file:../../common",
       "@scrypted/sdk": "file:../../sdk",
       "axios": "^0.27.2",
-      "crypto-js": "^4.1.1",
+      "crypto-js": "^4.2.0",
       "mqtt": "^4.3.7",
       "mqtt-packet": "^8.1.2",
       "ws": "^8.8.1"
