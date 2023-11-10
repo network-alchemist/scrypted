@@ -2,7 +2,7 @@
     "private": true,
     "dependencies": {
         "@google/local-home-sdk": "^1.5.0",
-        "axios": "^0.21.1"
+        "axios": "^1.6.0"
     },
     "devDependencies": {
         "array.prototype.flat": "^1.2.3",
